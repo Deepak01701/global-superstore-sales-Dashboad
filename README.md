@@ -1,4 +1,4 @@
-# global-superstore-sales-Dashboad using power bi
+# global-superstore-sales-Dashboard using power bi
 
 This project involves developing a sales dashboard for a global superstore using
 Power BI. The dashboard provides visualizations of sales data from various
